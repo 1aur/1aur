@@ -20,7 +20,7 @@
 - [Plantify](https://github.com/1aur/AI-Customer-Support) - AI-powered customer support chatbot designed to provide expert assistance on plant-based inquiries.
 
 ### 📄 Resume
-[View My Resume](https://github.com/1aur/1aur/raw/main/Copy_of_Computer_Science_Resume_October_2024.pdf)
+[View My Resume](https://github.com/1aur/1aur/raw/main/LaurenRodriguezResume.pdf)
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&background=black)](https://linkedin.com/in/laurenerodriguez)
