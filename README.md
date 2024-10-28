@@ -46,15 +46,11 @@ I am a graduate student in the fast track program at St. John's University, purs
 
 ## 📊 Statistics
 [![Followers](https://img.shields.io/github/followers/1aur?style=social)](https://github.com/1aur)
-[![Total Commits](https://img.shields.io/github/commit-activity/y/1aur?style=flat-square)](https://github.com/1aur)
-[![Repositories](https://img.shields.io/github/rate-limit/1aur?style=flat-square)](https://github.com/1aur?tab=repositories)
-[![Open Issues](https://img.shields.io/github/issues/1aur?style=flat-square)](https://github.com/1aur?tab=issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/1aur?style=flat-square)](https://github.com/1aur?tab=pulls)
-[![Last Commit](https://img.shields.io/github/last-commit/1aur?style=flat-square)](https://github.com/1aur)
 
 ---
 
 ## 📫 Contact
 Feel free to reach out to me!
+
 ✨ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&background=black)](https://linkedin.com/in/laurenerodriguez) ✨ [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=person&logoColor=white&background=black)](https://laurenerodriguez.me) ✨ [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&background=black)](mailto:lauren.rodriguez22@my.stjohns.edu)
 
