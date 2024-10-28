@@ -4,6 +4,7 @@
 </div>
 
 ---
+
 ## 💻 About Me
 I am a graduate student in the fast track program at St. John's University, pursuing a **Master of Science in Data Science** while simultaneously completing my **Bachelor of Science in Computer Science**. With an expected graduation date of 2026 for my master’s and 2027 for my bachelor’s, I am dedicated to advancing my expertise in the field. As a passionate advocate for increasing the representation of women in STEM, I promote initiatives that empower young women to pursue careers in science and technology.
 
@@ -46,6 +47,11 @@ I am a graduate student in the fast track program at St. John's University, purs
 
 ## 📊 Statistics
 [![Followers](https://img.shields.io/github/followers/1aur?style=social)](https://github.com/1aur)
+
+---
+
+## 📄 Resume
+[View My Resume](https://github.com/1aur/1aur/raw/main/LaurenRodriguezResume.pdf)
 
 ---
 
