@@ -1,9 +1,11 @@
 <div align="center">
 
-## 👋 About Me
-Hello! My name is **Lauren E. Rodriguez**. I am currently pursuing a **M.S. in Data Science** after completing my **B.S. in Computer Science**. 
-
+## Hello!👋 My name is **Lauren E. Rodriguez** 
 </div>
+
+---
+## 💻 About Me
+I am a graduate student in the fast track program at St. John's University, pursuing a **Master of Science in Data Science** while simultaneously completing my **Bachelor of Science in Computer Science**. With an expected graduation date of 2026 for my master’s and 2027 for my bachelor’s, I am dedicated to advancing my expertise in the field. As a passionate advocate for increasing the representation of women in STEM, I promote initiatives that empower young women to pursue careers in science and technology.
 
 ---
 
@@ -49,6 +51,7 @@ Hello! My name is **Lauren E. Rodriguez**. I am currently pursuing a **M.S. in D
 [![Open Issues](https://img.shields.io/github/issues/1aur?style=flat-square)](https://github.com/1aur?tab=issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/1aur?style=flat-square)](https://github.com/1aur?tab=pulls)
 [![Last Commit](https://img.shields.io/github/last-commit/1aur?style=flat-square)](https://github.com/1aur)
+
 
 
 ---
