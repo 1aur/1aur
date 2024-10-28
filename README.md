@@ -14,6 +14,10 @@
 - [PantryPro](https://github.com/1aur/Pantry-Pro) - Allows users to track and manage their inventory items efficiently.
 - [Plantify](https://github.com/1aur/AI-Customer-Support) - AI-powered customer support chatbot designed to provide expert assistance on plant-based inquiries.
 
+### 📄 Resume
+[View My Resume](https://github.com/1aur/1aur/raw/main/Copy_of_Computer_Science_Resume_October_2024.pdf)
+
+
 ### 📫 Connect with Me
 [LinkedIn](https://linkedin.com/in/laurenerodriguez) | [Portfolio](https://laurenerodriguez.me) | [Email](mailto:lauren.rodriguez22@my.stjohns.edu)
 
