@@ -1,5 +1,10 @@
+<div align="center">
+
 ## Hello! My name is Lauren E. Rodriguez. 👋
+
 ### B.S. Computer Science / M.S. Data Science 26'/27'
+
+</div>
 
 - 🎓 Studying **Data Science** and building on a **Computer Science** foundation
 - 💼 Previously interned as a Software Engineer at **Headstarter**
@@ -15,27 +20,9 @@
 - [Plantify](https://github.com/1aur/AI-Customer-Support) - AI-powered customer support chatbot designed to provide expert assistance on plant-based inquiries.
 
 ### 📄 Resume
-[View My Resume](https://github.com/1aur/1aur/raw/main/Copy_of_Computer_Science_Resume_October_2024.pdf)
-
+[View My Resume](https://github.com/1aur/1aur/raw/main/Computer_Science_Resume_October_2024.pdf)
 
 ### 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/laurenerodriguez) | [Portfolio](https://laurenerodriguez.me) | [Email](mailto:lauren.rodriguez22@my.stjohns.edu)
-
-
-<!--
-**1aur/1aur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🎓 Studying **Data Science** and building on a **Computer Science** foundation
-- 💼 Previously interned as a Software Engineer at **Headstarter**
-- 🏆 1x Hackathon Winner
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laurenerodriguez)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://laurenerodriguez.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauren.rodriguez22@my.stjohns.edu)
