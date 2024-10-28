@@ -20,9 +20,9 @@
 - [Plantify](https://github.com/1aur/AI-Customer-Support) - AI-powered customer support chatbot designed to provide expert assistance on plant-based inquiries.
 
 ### 📄 Resume
-[View My Resume](https://github.com/1aur/1aur/raw/main/Computer_Science_Resume_October_2024.pdf)
+[View My Resume](https://github.com/1aur/1aur/raw/main/Copy_of_Computer_Science_Resume_October_2024.pdf)
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laurenerodriguez)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://laurenerodriguez.me)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauren.rodriguez22@my.stjohns.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&background=black)](https://linkedin.com/in/laurenerodriguez)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=person&logoColor=white&background=black)](https://laurenerodriguez.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&background=black)](mailto:lauren.rodriguez22@my.stjohns.edu)
