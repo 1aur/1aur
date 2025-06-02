@@ -1,6 +1,6 @@
 <div align="center">
 
-##🎐 Hi! I'm **Lauren E. Rodriguez** 
+## 🎐 Hi! I'm **Lauren E. Rodriguez** 
 CS + Data Science | Full-Stack Dev | Women in STEM Advocate
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://laurenrodriguez.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lauren-erodriguez)
