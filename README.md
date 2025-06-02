@@ -27,31 +27,44 @@ I am a graduate student in the fast track program at St. John's University, purs
 ## 🛠 Tech Stack
 
 ### Languages
-[![Java](https://img.shields.io/badge/Java-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
-[![Python](https://img.shields.io/badge/Python-%233B8DBE.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
-
-### Front-End Development
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23037E6B.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SCSS](https://img.shields.io/badge/SCSS-%23CD6799.svg?style=for-the-badge&logo=sass&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300B4DB.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Back-End
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233B8DBE.svg?style=for-the-badge&logo=python&logoColor=white)
+### Operating Systems / Software
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VMWare](https://img.shields.io/badge/VMWare-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=googlecloud&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI & Machine Learning
+![MythoMist 7B](https://img.shields.io/badge/MythoMist%207B-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-1A202C?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ### Tools & Design
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-### Databases
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-
 
 ---
 
@@ -65,7 +78,7 @@ I am a graduate student in the fast track program at St. John's University, purs
 
 ## 📄 Resume
 
-[View My Resume!](https://github.com/1aur/1aur/raw/main/Lauren's-Resume.pdf)
+[View My Resume!](https://github.com/1aur/1aur/raw/main/Lauren'sResume.pdf)
 
 ---
 
