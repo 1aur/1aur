@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/20/90/32/2090328d292ecc50547cc657f88ba632.gif" alt="Header image" width="100%" />
+</p>
+
 <div align="center">
 
 ## 🎐 Hi! I'm **Lauren Rodriguez** 
@@ -89,3 +93,7 @@ I am a graduate student in the fast track program at St. John's University, purs
 - 💼 [LinkedIn](https://linkedin.com/in/lauren-erodriguez)
 
 ---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/6f/e1/6b/6fe16bc3c39b604e6cd167d371fc9c33.gif" alt="Header image" width="100%" />
+</p>
