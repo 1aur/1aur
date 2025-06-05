@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20I'm%20Lauren!%20🌸&animation=fadeIn&type=waving&color=gradient&height=150"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20I'm%20Lauren!%20🌸&animation=fadeIn&type=waving&color=ffbfd9,e9c5e3,d7a7e9&height=150&section=header&fontAlign=50&fontColor=ffffff" />
 </p>
 
 <div align="center">
@@ -94,5 +94,5 @@ I am a graduate student in the fast track program at St. John's University, purs
 
 ---
 <p align="center">
-  <img src="https://github.com/1aur/1aur/blob/main/assets/footer.gif" width="600"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=d7a7e9,e9c5e3,ffbfd9&height=120&section=footer"/>
 </p>
